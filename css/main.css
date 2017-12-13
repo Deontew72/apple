@@ -1,0 +1,15 @@
+body{
+	display: inline-block;
+}
+.imgapplelogo {
+	border-image: 0;
+}
+ul {
+	text-align: center;
+	height: 10px;
+	width: 50%;
+	margin: 15px auto;
+}
+div {
+	display: block;
+}
